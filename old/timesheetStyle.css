@@ -1,0 +1,38 @@
+body{
+	text-align: center;
+}
+table{
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+th td{
+	width: 500px;
+}
+.b{
+	border-top: double 1px black;
+	border-bottom: double 1px black;
+	border-left: double 1px black;
+	border-right: double 1px black;
+}
+.nb{
+	border: solid 1px white;
+}
+.center{
+	text-align: center;
+}
+.right{
+	text-align: right;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.timechange{
+	position: fixed;
+	width: 200px;
+	height: 70px;
+	top: 45%;
+	left: 45%;
+	border: solid 5px black;
+	background-color: white;
+}
